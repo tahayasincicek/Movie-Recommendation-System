@@ -4,7 +4,9 @@ Bu sistem, kullanıcıların film seçim sürecini kolaylaştırmak için geliş
 
 # Neden Bu Sistem?
 Popüler ve Kişiselleştirilmiş Öneriler: Film zevklerinize göre tavsiyeler sunar veya genel popüler filmleri keşfetmenizi sağlar.
+
 Kolay Kullanım: Basit ve sezgisel bir grafiksel arayüz ile istediğiniz önerilere sadece birkaç tıklamayla ulaşabilirsiniz.
+
 Veriye Dayalı Öneriler: Kullanıcı davranışları, izleme geçmişi ve tür seçimleri dikkate alınarak mantıklı öneriler oluşturulur.
 
 
